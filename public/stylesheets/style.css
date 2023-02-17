@@ -1,0 +1,32 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+h1{
+  text-align: center;
+  background-color: aquamarine;
+  border: 2px solid black;
+}
+
+h1:hover{
+  color: sandybrown;
+  background-color: black;
+}
+
+div{
+  text-align: center;
+  font: 24px "Gabriola";
+  font-style: italic;
+  background-color: aquamarine;
+  border: 2px solid black;
+}
+
+div:hover{
+  background-color: darkslategrey;
+  color: sandybrown;
+}
